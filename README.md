@@ -1,2 +1,3 @@
 # javacript
-tugas javascript
+git add .
+git commit -m "Menyelesaikan Tugas 1"
